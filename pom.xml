@@ -39,7 +39,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>wednesday-assignment</finalName>
+	<finalName>final-comprehensive-assessment</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
